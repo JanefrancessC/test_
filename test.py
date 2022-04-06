@@ -9,3 +9,4 @@ b = 5
 y= a*b
 print ('The product of ab is', y)
 
+print ('Hi')
